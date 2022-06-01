@@ -1,7 +1,4 @@
-# bootcamp-santander-dio
-
-Repositório usado para o Bootcamp da Santander
-
+# Santander Bootcamp - FullStack
 <h3 align="center">Techs used in Bootcamp:</h3>
 <div align="center" display="flex"; justify-content="space-between" width: "100%">
   <div>
@@ -14,6 +11,8 @@ Repositório usado para o Bootcamp da Santander
     <a href="https://nodejs.org/en/" target="_blank">
      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="slack" width="40" height="40"/>
     </a>
+  </div>
+  <div>
     <a href="https://angular.io/" target="_blank">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
     </a>
