@@ -1,7 +1,4 @@
 # bootcamp-santander-dio
-
-Repositório usado para o Bootcamp da Santander
-
 <h3 align="center">Techs used in Bootcamp:</h3>
 <div align="center" display="flex"; justify-content="space-between" width: "100%">
   <div>
