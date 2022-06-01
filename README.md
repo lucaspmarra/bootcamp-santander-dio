@@ -1,4 +1,4 @@
-# bootcamp-santander-dio
+# Santander Bootcamp - FullStack
 <h3 align="center">Techs used in Bootcamp:</h3>
 <div align="center" display="flex"; justify-content="space-between" width: "100%">
   <div>
