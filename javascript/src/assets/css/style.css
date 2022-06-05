@@ -36,3 +36,15 @@ h1 {
 p {
     padding-top: 50px;
 }
+
+.task-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+
+:checked+label {
+    text-decoration: line-through;
+    color: grey;
+}
