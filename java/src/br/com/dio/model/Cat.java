@@ -55,10 +55,6 @@ public class Cat {
 
     @Override
     public String toString() {
-        return "Cat{" +
-                "name='" + name + '\'' +
-                ", color='" + color + '\'' +
-                ", age=" + age +
-                '}';
+        return "Cat{" + "name='" + name + '\'' + ", color='" + color + '\'' + ", age=" + age + '}';
     }
 }
