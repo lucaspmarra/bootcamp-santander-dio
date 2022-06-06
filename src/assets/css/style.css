@@ -41,3 +41,16 @@ a {
   list-style: none;
   text-decoration: none;
 }
+
+.instragram__photo__1 {
+  width: 600px;
+  /* position: absolute; */
+}
+.instragram__photo__2 {
+  width: 600px;
+  /* position: absolute; */
+  padding-left: 80px;
+}
+.instagram__logo {
+  width: 120px;
+}
