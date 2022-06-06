@@ -1,10 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
 body {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #f1f4f6;
   /* text-align: center; */
   color: #2c3e50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .title_image {
@@ -14,6 +23,7 @@ body {
   height: 110px;
   text-align: center;
 }
+
 .post {
   background-color: white;
   padding: 15px;
@@ -21,20 +31,24 @@ body {
   border: 1px solid black;
   border-radius: 10px;
 }
+
 .post_title {
   font-size: 16px;
   font-style: italic;
   margin-bottom: 15px;
 }
+
 .post_image {
   width: 100%;
   margin-bottom: 15px;
   border-radius: 10px;
 }
+
 .post_content {
   margin: 0;
   margin-bottom: 15px;
 }
+
 .contact_list,
 a {
   padding-left: 15px;
@@ -42,6 +56,7 @@ a {
   text-decoration: none;
 }
 
+<<<<<<< HEAD
 .instragram__photo__1 {
   width: 600px;
   /* position: absolute; */
@@ -54,3 +69,8 @@ a {
 .instagram__logo {
   width: 120px;
 }
+=======
+p {
+  padding-top: 50px;
+}
+>>>>>>> 1ceaff11f972f40f91fd11ddf78668c65c4bc429
